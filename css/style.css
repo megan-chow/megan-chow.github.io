@@ -1,0 +1,17 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.banner{
+    align-items: center;
+    justify-content: center;
+    position:relative;
+    background-color: blue;
+    color: white;
+    height:890px;
+}
+
+.banner-text-container{
+    width: 60%;
+    margin:auto;
+}
