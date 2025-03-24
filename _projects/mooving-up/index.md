@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MOOving Up (Video Game)
-description:  Designing and developing an original video game. Built in Unity and coded in C#.
+description:  Design and development of an original video game, where I implemented movement physics, controls, and events. Built in Unity and coded in C#.
 skills: 
   - Video Game Development
   - Unity
