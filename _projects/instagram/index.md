@@ -7,6 +7,9 @@ skills:
   - Python
   - Flask
   - HTML/CSS
+  - REST API
+  - JavaScript
+  - React
 
 main-image: /sonos.png
 ---

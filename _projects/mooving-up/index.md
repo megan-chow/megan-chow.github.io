@@ -8,14 +8,14 @@ skills:
   - C#
   - Physics
 
-main-image: /project2.jpg
+main-image: /moovingup1.jpg
 ---
 
 ---
 # Header 1 
-Used for the title (already generated automatically at the top)
+MOOving Up
 ## Header 2  
-Use this for the header of each section
+Our race depends on this mission.
 ### Header 3 
 Use this to have subsection if needed
 
@@ -27,7 +27,7 @@ Use this to have subsection if needed
 You can put in multiple entries. All images will be at a fixed height in the same row. With smaller window, they will switch to columns.  
 
 ### Embeed images
-{% include image-gallery.html images="project2.jpg" height="400" %} 
+{% include image-gallery.html images="moovingup1.jpg" height="400" %} 
 place the images in project folder/images then update the file path.   
 
 
