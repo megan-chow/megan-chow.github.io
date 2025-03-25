@@ -7,6 +7,7 @@ skills:
   - Unity
   - C#
   - Physics
+  - Animation configuration
 
 main-image: /moovingup1.jpg
 ---
