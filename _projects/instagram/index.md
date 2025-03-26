@@ -18,12 +18,10 @@ main-image: /sonos.png
 
 ---
 # Header 1 
-Instagram Clone
-## Header 2  
-Our race depends on this mission.
-### Features
+Full-Stack Instagram clone using various languages and libraries. Front end is built using JavaScript/ReactJS, HTML/CSS, and the backend is built using SQL, Flask, 
+## Features
 Includes integral features of Instagram, such as account management, feed rendering, and post interaction. Users are able to follow other users and interact with posts via likes and comments.
-### Database Management
+## Database Management
 Site data is managed using a SQL database, with protections against malicious users to prevent attacks against the site.
 
 
@@ -33,7 +31,7 @@ Site data is managed using a SQL database, with protections against malicious us
 <span style="font-size: 10px">"Starship Test Flight Mission" from https://www.flickr.com/photos/spacex/52821641477/</span>  
 You can put in multiple entries. All images will be at a fixed height in the same row. With smaller window, they will switch to columns.  
 
-### Embeed images
+### Embed images
 {% include image-gallery.html images="moovingup1.jpg" height="400" %} 
 place the images in project folder/images then update the file path.   
 
