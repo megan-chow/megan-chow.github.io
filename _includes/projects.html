@@ -4,7 +4,7 @@
 
     <div class="grid-container">
         {% for item in site.projects %}
-            <a href="{{ item.url }}" class="project-link">
+            <!-- <a href="{{ item.url }}" class="project-link"> -->
                 <div class="project-card">
                     {% assign folder_path = item.path | split: "/" | slice: 0, 2 | join: "/" %}
                     {% assign image_path = "/" | append: folder_path | append: item['main-image'] %}
@@ -18,7 +18,7 @@
                     <p class="project-description">{{ item.description }}</p>
                     <button class="read-more">Read more →</button>
                 </div>
-            </a>
+            <!-- </a> -->
         {% endfor %}
     </div>
 
