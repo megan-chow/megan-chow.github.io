@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Full-Stack Instagram Clone
-description: Recreated Instagram 
+title: Instagram
+description: Full-Stack Instagram clone using various languages and libraries. Front end is built using JavaScript/ReactJS, HTML/CSS, and jinja2. Backend is built using SQL and Flask. Includes integral features of Instagram, such as account management, feed rendering, and post interaction. Users are able to follow other users and interact with posts via likes and comments.
 skills: 
   - Web Development
   - Python
@@ -9,11 +9,11 @@ skills:
   - Database Management
   - SQL
   - HTML/CSS
-  - REST API
+  - RESTful API
   - JavaScript
   - React
 
-main-image: /sonos.png
+main-image: /instagram1.png
 ---
 
 ---

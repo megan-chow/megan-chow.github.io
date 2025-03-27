@@ -65,6 +65,7 @@ skills:
     - Database Management
   - category: Operating Systems
     tools:
+    - Processes and Threads
     - Concurrency
   - category: Development Tools
     tools:
